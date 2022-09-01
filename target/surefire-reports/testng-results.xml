@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="8" total="12" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite17" duration-ms="44" started-at="2022-07-27T08:26:26 IST" finished-at="2022-07-27T08:26:26 IST">
+    <groups>
+      <group name="smoke">
+        <method signature="Bike.yamaha()[pri:0, instance:MavenDemoGroId.MavenDemoArtId.Bike@6ebc05a6]" name="yamaha" class="MavenDemoGroId.MavenDemoArtId.Bike"/>
+        <method signature="RacingBikes.FZ()[pri:0, instance:MavenDemoGroId.MavenDemoArtId.RacingBikes@9660f4e]" name="FZ" class="MavenDemoGroId.MavenDemoArtId.RacingBikes"/>
+        <method signature="tempo.Tempotirri()[pri:0, instance:MavenDemoGroId.MavenDemoArtId.tempo@5a8806ef]" name="Tempotirri" class="MavenDemoGroId.MavenDemoArtId.tempo"/>
+        <method signature="Cycle.Hercules()[pri:0, instance:Package2.Cycle@5e853265]" name="Hercules" class="Package2.Cycle"/>
+      </group> <!-- smoke -->
+    </groups>
+    <test name="Biketest" duration-ms="44" started-at="2022-07-27T08:26:26 IST" finished-at="2022-07-27T08:26:26 IST">
+      <class name="MavenDemoGroId.MavenDemoArtId.tempo">
+        <test-method status="PASS" signature="Tempotirri()[pri:0, instance:MavenDemoGroId.MavenDemoArtId.tempo@5a8806ef]" name="Tempotirri" duration-ms="0" started-at="2022-07-27T08:26:26 IST" finished-at="2022-07-27T08:26:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tempotirri -->
+      </class> <!-- MavenDemoGroId.MavenDemoArtId.tempo -->
+      <class name="Package2.Cycle">
+        <test-method status="PASS" signature="Hercules()[pri:0, instance:Package2.Cycle@5e853265]" name="Hercules" duration-ms="0" started-at="2022-07-27T08:26:26 IST" finished-at="2022-07-27T08:26:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Hercules -->
+      </class> <!-- Package2.Cycle -->
+      <class name="MavenDemoGroId.MavenDemoArtId.Bike">
+        <test-method status="PASS" signature="yamaha()[pri:0, instance:MavenDemoGroId.MavenDemoArtId.Bike@6ebc05a6]" name="yamaha" duration-ms="5" started-at="2022-07-27T08:26:26 IST" finished-at="2022-07-27T08:26:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- yamaha -->
+      </class> <!-- MavenDemoGroId.MavenDemoArtId.Bike -->
+      <class name="MavenDemoGroId.MavenDemoArtId.RacingBikes">
+        <test-method status="PASS" signature="FZ()[pri:0, instance:MavenDemoGroId.MavenDemoArtId.RacingBikes@9660f4e]" name="FZ" duration-ms="0" started-at="2022-07-27T08:26:26 IST" finished-at="2022-07-27T08:26:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FZ -->
+      </class> <!-- MavenDemoGroId.MavenDemoArtId.RacingBikes -->
+    </test> <!-- Biketest -->
+  </suite> <!-- Suite17 -->
+</testng-results>

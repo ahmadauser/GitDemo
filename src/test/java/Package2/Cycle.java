@@ -22,7 +22,7 @@ public class Cycle {
 public void Hercules()
 {
 	System.out.println("this is hercules");
-	Assert.assertTrue(true);
+	Assert.assertTrue(false);
 	
 }
 

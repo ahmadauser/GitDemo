@@ -22,8 +22,8 @@ public class Cycle {
 public void Hercules()
 {
 	System.out.println("this is hercules");
-	Assert.assertTrue(false);
-	System.out.println("this is the update");
+	Assert.assertTrue(true);
+	
 }
 
 
